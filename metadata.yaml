@@ -1,0 +1,33 @@
+_repo: Dostoievsky-Articles-et-Causeries_60916
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gide, André
+    aliases:
+    - Gide, Andre
+    - Gide, André Paul Guillaume
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '2184'
+    url: http://www.gutenberg.org/2009/agents/2184
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Andr%C3%A9_Gide
+    - https://fr.wikipedia.org/wiki/Andr%C3%A9_Gide
+description: ''
+gutenberg_bookshelf: FR Nouveautés
+gutenberg_issued: '2019-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60916'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Dostoyevsky, Fyodor, 1821-1881 -- Criticism and interpretation'
+- GITenberg
+tableOfContents: Dostoïevsky d'après sa correspondance (1908) -- «Les Frères Karamazov»
+  -- Allocution lue au Vieux-Colombier -- Conférences du Vieux-Colombier -- Appendice.
+title: Dostoïevsky (Articles et Causeries)
+url: http://www.gutenberg.org/ebooks/60916
